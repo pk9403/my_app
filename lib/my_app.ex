@@ -19,5 +19,5 @@ defmodule MyApp do
   end
 end
 
-Enum.sum(MyApp.main)
+# Run
 Enum.sum(MyApp.main)
